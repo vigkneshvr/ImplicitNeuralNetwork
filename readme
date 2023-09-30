@@ -1,0 +1,19 @@
+This is a hobby project on neural implicit representation a deep network that can be used to memorize an image or even reconstruct it from non-linear measurements.
+
+There are 5 different ways for learning an image using neural network:
+1) Image regression with implicit neural representation -> train_simple.py
+2) Using Fourier feature network as input -> train_fourier.py
+3) Reconstruction from Radon transform -> train_radon.py
+4) Nonlinear Radon transform -> train_nlradon.py
+
+sample dataset used and pretrianed weights is provided in the following link:
+https://drive.google.com/file/d/13zJYURGnXjBTU5XmcX2iTOgP6PTKUJ4p/view?usp=sharing
+
+Sample output can be seen using test.py
+
+
+
+
+
+
+

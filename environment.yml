@@ -1,0 +1,13 @@
+name: inr
+channels:
+  - defaults
+dependencies:
+  - python==3.8
+  - torchvision
+  - pytorch
+  - torchaudio
+  - pytorch-cuda=11.8
+  - tensorboard
+  - matplotlib
+  - tqdm
+prefix: C:\Users\Vigknesh\anaconda3\envs\inr
